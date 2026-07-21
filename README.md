@@ -1,16 +1,29 @@
-## Hi there 👋
+# Oathlayer
 
-<!--
-**oathlayer/oathlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI trust infrastructure. Verify AI outputs before anyone acts on them.
 
-Here are some ideas to get you started:
+Every answer checked against real sources. Every answer documented with a permanent doc number anyone can verify for free.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What it does
+
+- Checks every AI answer against independent real-world sources
+- Returns a trust signal — Oath Approved, Threshold Not Met, Various Perspectives Apply, or Threshold Reserved
+- Every answer gets a unique permanent doc number
+- Anyone can verify any doc number free at oathlayer.com/verify
+- Works on any AI model
+
+## MCP Server
+
+Connect Oathlayer to your AI agents via MCP at https://mcp.oathlayer.com
+
+## API
+
+Full API and CLI documentation at https://oathlayer.com/docs
+
+## Pricing
+
+From $9 for 500 verifications. Details at https://oathlayer.com
+
+## Trust Is Everything
+
+oathlayer.com
