@@ -6,7 +6,7 @@ Oathlayer reports what happened. It does not judge right or wrong for you. It wo
 
 ## Ways to use it
 
-- **Oathlayer Chat** at [oathlayer.com](https://oathlayer.com): ask a question or paste up to 5 legal citations and get a clear table of results. No programming needed.
+- **Ask Oathlayer** at [oathlayer.com/ask](https://oathlayer.com/ask): ask a question or paste up to 5 legal citations and get a clear table of results. No programming needed.
 - **API** for your own apps: [oathlayer.com/docs](https://oathlayer.com/docs)
 - **AI agents (MCP):** connect to `https://mcp.oathlayer.com` and use the `verify_output` tool.
 
